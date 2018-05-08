@@ -49,7 +49,7 @@ blogSummary <- data.frame(
 )
 blogSummary %>% formattable()
 
-# Example of text in blog:
+# Example of post on a blog:
 blogs[1]
 
 # news
